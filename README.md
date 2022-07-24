@@ -1,6 +1,6 @@
 <!-- Please update value in the {}  -->
 
-<h1 align="center">404 not found</h1>
+<h1 align="center">My team page</h1>
 
 <div align="center">
    Solution for a challenge from  <a href="http://devchallenges.io" target="_blank">Devchallenges.io</a>.
@@ -35,7 +35,7 @@
 
 ## Overview
 
-![screenshot](https://user-images.githubusercontent.com/65280085/180602662-ed879e24-1c35-4235-8338-7748eaee4f8f.png)
+![screenshot](https://user-images.githubusercontent.com/65280085/180658316-bc10350f-df6c-4e56-b33e-202bbf90cae0.png)
 
 ## Built With
 
